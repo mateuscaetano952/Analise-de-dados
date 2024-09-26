@@ -1,0 +1,19 @@
+{
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
+  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
+  "chime-theme@@theme-settings": "theme-notion",
+  "chime-theme@@colored-bold-and-italic": true,
+  "chime-theme@@underlined-highlight": true,
+  "chime-theme@@increased-line-height": true,
+  "chime-theme@@custom-font-toggle": false,
+  "chime-theme@@heading-colors": "colorful-headings",
+  "chime-theme@@smaller-headings": true,
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-lavender",
+  "anuppuccin-theme-settings@@anp-active-line": "anp-current-line",
+  "anuppuccin-theme-settings@@anp-header-color-toggle": true,
+  "anuppuccin-theme-settings@@anp-table-toggle": true,
+  "anuppuccin-theme-settings@@anp-table-width": true,
+  "anuppuccin-theme-settings@@anp-table-auto": true,
+  "anuppuccin-theme-settings@@anp-toggle-preview": true
+}

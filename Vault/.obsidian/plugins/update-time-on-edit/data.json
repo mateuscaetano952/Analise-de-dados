@@ -1,0 +1,30 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "02 - Conteudos/Videos/Nutrition Tier Lists - Vegetables.md": "a489ccafbcd4928321dd725726a9a02ce6d830d4c7abe5f275f512e8878c28f0",
+    "00 - Pessoal/Atividade física.md": "91e3323b24dbdf185c1ac4e8515f6ff26c0c9aa574e0cb47f7063d92c3f40dac",
+    "00 - Pessoal/Alimentação.md": "fe66ee64599f49cfc309e1f5cf83a4f2542fe66c7493c6ad83a1ad03b5799718",
+    "Palheta teste.md": "3a5ab933122214f276cb276a5953be7f1b9d97c5e50ceb416993ae11c588dc22",
+    "templates/Notas.md": "d923e15327d83cbd029ce8f92021b7cbe44aa60c41716da841ba56fdad1ef934",
+    "templates/Projeto.md": "0e7f9acf2a309af031812198078f14bf663d0075ca2c2d73d73855e3a50da32d",
+    "templates/Videos resumo.md": "1c38f12f0094c6e48dbcebaacd80bdd7814bd957aa07e5cec868304e87c975e3",
+    "00 - Pessoal/Time blocking.md": "43f2e06f299f2e352fd3b1433cf61320bde5696b630078d814edff20c72ad7d5",
+    "00 - Pessoal/Estetica.md": "be9709983aade8acda4e692f5c035fb66c061089192bf050360ea9980a98944e",
+    "00 - Pessoal/Hábitos.md": "ce4b995894238ddf51cf4f2bee9932c90be44b63288dde6bfec6a54934afad8d",
+    "01 - Projetos/Provas estacio 2024.3.md": "fff8165b911034285bcc1b9dbe07bb273ddd4e5eca05cca2887dd859ecc1987d",
+    "00 - Pessoal/Objetivos.md": "390fcfde8b397aa084484f9037822362b38ddf54766adb23a8cca8ac86f0b233",
+    "00 - Pessoal/00.md": "191db789a3b03a4429308a02580786abab256233ccc74171187ab909a3e6644f",
+    "01 - Projetos/Montar meu treino.md": "0af74c9827e15b5fea3a07024ce64c8772659de4d7a1d1ced33c7f2f5d07b669",
+    "06 - temp/Engenharia da computação/Tema 2 resumos.md": "44379d09043e67a1a45b852ddbd1e988295d1daa3a0b29558cccbe801849f77a",
+    "03 - Anotações/Ciencia da computação/Ciencia de dados/01 - analise de dados o que é?.md": "e73954ccb9ef4f3883685c9933d15cc2f8fcc0af6857cdd71c10f753708cd170",
+    "03 - Anotações/Ciencia da computação/Ciencia de dados/00 - Ciencia de dados index.md": "c9d6eb3bbaa1999550239170e714f3d1fd65c0767de018e7cf9a4c52c29b06d8",
+    "03 - Anotações/Ciencia da computação/Ciencia de dados/02 - Conceitos chaves.md": "2f4896683956ec2cfec115ed81aaadd24b136d6723944356471d827bef989a63"
+  }
+}

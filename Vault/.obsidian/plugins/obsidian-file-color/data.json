@@ -1,0 +1,35 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "jvq4f8WcALYS14vKyUKcR",
+      "name": "99 cool-gray",
+      "value": "#515768"
+    },
+    {
+      "id": "LJrL7HgCno0DeLUU5jpyL",
+      "name": "00 - mint",
+      "value": "#52eea3"
+    },
+    {
+      "id": "7-EsciyYoD63Shq2d4CN-",
+      "name": "01 - cyan",
+      "value": "#51e1e9"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "00 - Pessoal",
+      "color": "LJrL7HgCno0DeLUU5jpyL"
+    },
+    {
+      "path": "01 - Projetos",
+      "color": "7-EsciyYoD63Shq2d4CN-"
+    },
+    {
+      "path": "templates",
+      "color": "jvq4f8WcALYS14vKyUKcR"
+    }
+  ]
+}

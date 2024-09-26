@@ -1,0 +1,12 @@
+{
+  "baseFontSize": 24,
+  "interfaceFontFamily": "JetBrains Mono NL",
+  "textFontFamily": "JetBrains Mono NL",
+  "monospaceFontFamily": "JetBrains Mono NL",
+  "cssTheme": "Vanilla AMOLED",
+  "accentColor": "#e506bc",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "mateus_snippet"
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "1c1ca6828a52b494",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4ab2e5ac483eb8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e8bee190b50d0b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Anotações/Ciencia da computação/Ciencia de dados/02 - Conceitos chaves.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d64dfcb5ebd1dd2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Anotações/Ciencia da computação/Ciencia de dados/02 - Conceitos chaves.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1ae3bdd2cd69cf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c7432eadbab6569",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7008f3c8bf189ed0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b207fe831b60648",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:ciencia-da-computação",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d04dbdbc73e6e6d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.50260543823242,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8a98386b474ca4c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "64cd7909b46bd6c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "303b15d9b1f2043a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 - Anotações/Ciencia da computação/Ciencia de dados/02 - Conceitos chaves.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41e26c6bb198e5f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 - Anotações/Ciencia da computação/Ciencia de dados/02 - Conceitos chaves.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6352131fc616d08c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "871d6f396e3df626",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 - Anotações/Ciencia da computação/Ciencia de dados/02 - Conceitos chaves.md"
+              }
+            }
+          },
+          {
+            "id": "321b446ab47a4d83",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "4ddc8fb6382c8743",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fb6be4fde977e98",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "5e8bee190b50d0b1",
+  "lastOpenFiles": [
+    "03 - Anotações/Ciencia da computação/Ciencia de dados/00 - Ciencia de dados index.md",
+    "03 - Anotações/Ciencia da computação/Ciencia de dados/02 - Conceitos chaves.md",
+    "00 - Pessoal/00.md",
+    "imagens bank/dados,tecnicas e ferramentas 2.png",
+    "imagens bank/dados,tecnicas e ferramentas.png",
+    "03 - Anotações/Ciencia da computação/Ciencia de dados/01 - analise de dados o que é?.md",
+    "imagens bank/5 analia de dados.png",
+    "03 - Anotações/Ciencia da computação/Ciencia de dados",
+    "00 - Pessoal/Atividade física.md",
+    "00 - Pessoal/Objetivos.md",
+    "00 - Pessoal/Alimentação.md",
+    "06 - temp/Engenharia da computação/Tema 2 resumos.md",
+    "06 - temp",
+    "Tema 2 - Fundamentos de software e gerenciamento de projetos.md",
+    "imagens bank/metodologia_software_generica.png",
+    "imagens bank/Engenharia+de+Software_camadas.jpg",
+    "06 - temp/Engenharia da computação",
+    "03 - Anotações/Ciencia da computação",
+    "03 - Anotações/Prevenção de injurias",
+    "02 - Conteudos/Videos/Nutrition Tier Lists - Vegetables.md",
+    "02 - Conteudos/Videos/The MOST Effective BACK WORKOUT for MUSCLE GROWTH (Using Science).md",
+    "01 - Projetos/Montar meu treino.md",
+    "00 - Pessoal/Estetica.md",
+    "00 - Pessoal/Hábitos.md",
+    "00 - Pessoal/Time blocking.md",
+    "05 - Diario",
+    "01 - Projetos/Provas estacio 2024.3.md",
+    "01 - Projetos/JulliamHimself.md",
+    "04 - Arquivados",
+    "03 - Anotações",
+    "00 - Pessoal/02 - Ganha 5k.md",
+    "Palheta teste.md",
+    "imagens bank/compass-navigational-device-show-side-illustration-157638417_iconl_nowm.webp",
+    "imagens bank/compass-navigational-device-show-side-illustration-157638417_iconl_nowm.webp.crdownload",
+    "Teste.md",
+    "imagens bank",
+    "templates/Notas.md",
+    "00 - Pessoal/01 - Saúde.md",
+    "templates/Videos resumo.md",
+    "templates/Projeto.md",
+    "99 - Vault metadados/Imgs/vegetable tier list.png",
+    "00 - Pessoal/O que eu quero.md"
+  ]
+}
